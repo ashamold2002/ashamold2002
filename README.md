@@ -3,7 +3,7 @@
 Trainee software Engineer @Relevantz Technologies
  
 - 💻 I am currently working on Relevantz Technologies 
-- 🌱 I am currently learning on React Framework 
+- 🌱 I am currently learning Artificial Intelligence.
 - 💬 Ask me about How to become a Rich developer? 
 - LinkedIn Profile:
 <br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/asha-mol-9a3561239)
