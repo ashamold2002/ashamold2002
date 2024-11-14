@@ -1,6 +1,6 @@
 ## Hi Folks 👋 It's me Asha
  
-Trainee software Engineer @Relevantz Technologies
+Junior software Engineer @Relevantz Technologies
  
 - 💻 I am currently working on Relevantz Technologies 
 - 🌱 I am currently learning Artificial Intelligence.
